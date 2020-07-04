@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/olegatut/mrm_repeat/issues"
   },
-  "homepage": "https://github.com/olegatut/mrm_repeat#readme"
+  "homepage": "https://github.com/olegatut/mrm_repeat#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
 }
